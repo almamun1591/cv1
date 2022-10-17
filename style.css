@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #EEE;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+
+}
+
+.proimg{
+    height: 120px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+
+.mydetails{
+    float: left;
+    padding: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #11999E;
+}
+
+.contact{
+    float: right;
+    padding: 30px;
+    
+}
+
+.contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+
+.contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: black solid 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+#sec1{
+
+}
+
+.content{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+
+.right-div{
+    width: 70%;
+    float: left;
+   
+}
+
+.right-div:hover{
+    color: tomato;
+    
+}
+
+.right-div ul li{
+    list-style-type: none;
+    padding: 0px 30px 0px 0px;
+}
+
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.right-div1{
+    width: 70%;
+    float: left;
+   
+}
+
+.edu-temp-left{
+    float: left;
+    width: 45%;
+
+}
+
+.edu-temp-right{
+    float: right;
+    width: 45%;
+
+}
+
+.foot{
+    background-color: black;
+   
+    text-align: center;
+    padding: 10px;
+
+}
+
+.foot a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+
+.foot p{
+    color: white;
+    margin-top: 10px;
+    
+}
+
+.foot a:hover{
+    color: red;
+    text-decoration: underline;
+}
